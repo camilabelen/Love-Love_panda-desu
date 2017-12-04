@@ -1,0 +1,12 @@
+.img1, .img2, .img3{
+  width: 100%;
+  filter: grayscale(10);
+}
+
+.four-images img{
+  width: 100%;
+  border: 10px solid #FFF;
+}
+body section{
+  margin-bottom: 0;
+}
